@@ -59,17 +59,6 @@
       "inProgress": 1,
       "overDueWeek": 1,
       "futureWeek": 43
-    },
-     {
-      "id": "7",
-      "enrolleName": "Manju",
-      "mobileNO": 7538894965,
-      "chitCount": 1,
-      "paidweeks": 2,
-      "inProgress": 1,
-      "overDueWeek": 0,
-      "futureWeek": 43
     }
-    
   ]
 }
