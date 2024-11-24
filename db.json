@@ -5,50 +5,50 @@
       "enrolleName": "Chandra",
       "mobileNO": 9976824238,
       "chitCount": 4,
-      "paidweeks": 2,
+      "paidweeks": 3,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 43
+      "futureWeek": 42
     },
     {
       "id": "2",
       "enrolleName": "KalaiSelvi",
       "mobileNO": 9677780083,
       "chitCount": 2,
-      "paidweeks": 2,
+      "paidweeks": 3,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 43
+      "futureWeek": 42
     },
     {
       "id": "3",
       "enrolleName": "Malathi",
       "mobileNO": 9944347004,
       "chitCount": 1,
-      "paidweeks": 2,
+      "paidweeks": 3,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 43
+      "futureWeek": 42
     },
     {
       "id": "4",
       "enrolleName": "Sasi",
       "mobileNO": 6381106221,
       "chitCount": 1,
-      "paidweeks": 2,
+      "paidweeks": 3,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 43
+      "futureWeek": 42
     },
     {
       "id": "5",
       "enrolleName": "Sangeetha",
       "mobileNO": 9965165324,
       "chitCount": 1,
-      "paidweeks": 1,
+      "paidweeks": 3,
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 43
+      "overDueWeek": 0,
+      "futureWeek": 42
     },
     {
       "id": "6",
@@ -57,18 +57,29 @@
       "chitCount": 1,
       "paidweeks": 1,
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 43
+      "overDueWeek": 2,
+      "futureWeek": 42
     },
     {
       "id": "7",
       "enrolleName": "Manju",
       "mobileNO": 7538894965,
       "chitCount": 1,
-      "paidweeks": 2,
+      "paidweeks": 3,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 43
+      "futureWeek": 42
+    },
+    {
+      "id": "8",
+      "enrolleName": "Dhanam",
+      "mobileNO": 9944379472,
+      "chitCount": 6,
+      "paidweeks": 3,
+      "inProgress": 1,
+      "overDueWeek": 0,
+      "futureWeek": 42
     }
+
   ]
 }
