@@ -5,10 +5,10 @@
       "enrolleName": "Chandra",
       "mobileNO": 9976824238,
       "chitCount": 4,
-      "paidweeks": 5,
+      "paidweeks": 6,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 40
+      "futureWeek": 39
     },
     {
       "id": "2",
@@ -17,28 +17,28 @@
       "chitCount": 2,
       "paidweeks": 5,
       "inProgress": 1,
-      "overDueWeek": 0,
-      "futureWeek": 40
+      "overDueWeek": 1,
+      "futureWeek": 39
     },
     {
       "id": "3",
       "enrolleName": "Malathi",
       "mobileNO": 9944347004,
       "chitCount": 1,
-      "paidweeks": 3,
+      "paidweeks": 6,
       "inProgress": 1,
-      "overDueWeek": 2,
-      "futureWeek": 40
+      "overDueWeek": 0,
+      "futureWeek": 39
     },
     {
       "id": "4",
       "enrolleName": "Sasi",
       "mobileNO": 6381106221,
       "chitCount": 1,
-      "paidweeks": 4,
+      "paidweeks": 6,
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 40
+      "overDueWeek": 0,
+      "futureWeek": 39
     },
     {
       "id": "5",
@@ -47,38 +47,38 @@
       "chitCount": 1,
       "paidweeks": 4,
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 40
+      "overDueWeek": 2,
+      "futureWeek": 39
     },
     {
       "id": "6",
       "enrolleName": "Mathiyazhagan",
       "mobileNO": 8056054225,
       "chitCount": 1,
-      "paidweeks": 1,
+      "paidweeks": 6,
       "inProgress": 1,
-      "overDueWeek": 4,
-      "futureWeek": 40
+      "overDueWeek": 0,
+      "futureWeek": 39
     },
     {
       "id": "7",
       "enrolleName": "Manju",
       "mobileNO": 7538894965,
       "chitCount": 1,
-      "paidweeks": 5,
+      "paidweeks": 6,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 40
+      "futureWeek": 39
     },
     {
       "id": "8",
       "enrolleName": "Dhanam",
       "mobileNO": 9944379472,
       "chitCount": 2,
-      "paidweeks": 5,
+      "paidweeks": 6,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 40
+      "futureWeek": 39
     }
 
   ]
