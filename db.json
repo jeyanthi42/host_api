@@ -45,9 +45,9 @@
       "enrolleName": "Sangeetha",
       "mobileNO": 9965165324,
       "chitCount": 1,
-      "paidweeks": 4,
+      "paidweeks": 6,
       "inProgress": 1,
-      "overDueWeek": 2,
+      "overDueWeek": 0,
       "futureWeek": 39
     },
     {
