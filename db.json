@@ -5,20 +5,20 @@
       "enrolleName": "Chandra",
       "mobileNO": 9976824238,
       "chitCount": 4,
-      "paidweeks": 7,
+      "paidweeks": 8,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 38
+      "futureWeek": 37
     },
     {
       "id": "2",
       "enrolleName": "KalaiSelvi",
       "mobileNO": 9677780083,
       "chitCount": 2,
-      "paidweeks": 7,
+      "paidweeks": 8,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 38
+      "futureWeek": 37
     },
     {
       "id": "3",
@@ -27,58 +27,58 @@
       "chitCount": 1,
       "paidweeks": 7,
       "inProgress": 1,
-      "overDueWeek": 0,
-      "futureWeek": 38
+      "overDueWeek": 1,
+      "futureWeek": 37
     },
     {
       "id": "4",
       "enrolleName": "Sasi",
       "mobileNO": 6381106221,
       "chitCount": 1,
-      "paidweeks": 6,
+      "paidweeks": 8,
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 38
+      "overDueWeek": 0,
+      "futureWeek": 37
     },
     {
       "id": "5",
       "enrolleName": "Sangeetha",
       "mobileNO": 9965165324,
       "chitCount": 1,
-      "paidweeks": 6,
+      "paidweeks": 8,
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 38
+      "overDueWeek": 0,
+      "futureWeek": 37
     },
     {
       "id": "6",
       "enrolleName": "Mathiyazhagan",
       "mobileNO": 8056054225,
       "chitCount": 1,
-      "paidweeks": 7,
+      "paidweeks": 8,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 38
+      "futureWeek": 37
     },
     {
       "id": "7",
       "enrolleName": "Manju",
       "mobileNO": 7538894965,
       "chitCount": 1,
-      "paidweeks": 7,
+      "paidweeks": 8,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 38
+      "futureWeek": 37
     },
     {
       "id": "8",
       "enrolleName": "Dhanam",
       "mobileNO": 9944379472,
       "chitCount": 2,
-      "paidweeks": 7,
+      "paidweeks": 8,
       "inProgress": 1,
       "overDueWeek": 0,
-      "futureWeek": 38
+      "futureWeek": 37
     }
 
   ]
