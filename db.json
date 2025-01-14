@@ -16,8 +16,8 @@
       "mobileNO": 9677780083,
       "chitCount": 2,
       "paidweeks": 9,
-      "inProgress": 2,
-      "overDueWeek": 0,
+      "inProgress": 1,
+      "overDueWeek": 1,
       "futureWeek": 35
     },
     {
@@ -47,7 +47,7 @@
       "chitCount": 1,
       "paidweeks": 10,
       "inProgress": 1,
-      "overDueWeek": 1,
+      "overDueWeek": 0,
       "futureWeek": 35
     },
     {
