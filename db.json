@@ -5,20 +5,20 @@
       "enrolleName": "Chandra",
       "mobileNO": 9976824238,
       "chitCount": 6,
-      "paidweeks": 16, 
+      "paidweeks": 18, 
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 28
+      "overDueWeek": 0,
+      "futureWeek": 27
     },
     {
       "id": "2",
       "enrolleName": "KalaiSelvi",
       "mobileNO": 9677780083,
       "chitCount": 2,
-      "paidweeks": 16,
+      "paidweeks": 18,
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 28
+      "overDueWeek": 0,
+      "futureWeek": 27
     },
     {
       "id": "3",
@@ -27,18 +27,18 @@
       "chitCount": 1,
       "paidweeks": 7,
       "inProgress": 1,
-      "overDueWeek": 10,
-      "futureWeek": 28
+      "overDueWeek": 11,
+      "futureWeek": 27
     },
     {
       "id": "4",
       "enrolleName": "Sasi",
       "mobileNO": 6381106221,
       "chitCount": 1,
-      "paidweeks": 14,
+      "paidweeks": 17,
       "inProgress": 1,
-      "overDueWeek": 3,
-      "futureWeek": 28
+      "overDueWeek": 1,
+      "futureWeek": 27
     },
     {
       "id": "5",
@@ -47,18 +47,18 @@
       "chitCount": 1,
       "paidweeks": 16,
       "inProgress": 1,
-      "overDueWeek": 1,
-      "futureWeek": 28
+      "overDueWeek": 2,
+      "futureWeek": 27
     },
     {
       "id": "6",
       "enrolleName": "Mathiyazhagan",
       "mobileNO": 8056054225,
       "chitCount": 1,
-      "paidweeks": 8,
+      "paidweeks": 18,
       "inProgress": 1,
-      "overDueWeek": 9,
-      "futureWeek": 28
+      "overDueWeek": 0,
+      "futureWeek": 27
     },
     {
       "id": "7",
@@ -67,8 +67,8 @@
       "chitCount": 1,
       "paidweeks": 17,
        "inProgress": 1,
-      "overDueWeek": 0,
-      "futureWeek": 28
+      "overDueWeek": 1,
+      "futureWeek": 27
     },
     {
       "id": "8",
@@ -77,8 +77,8 @@
       "chitCount": 2,
       "paidweeks": 17,
       "inProgress": 1,
-      "overDueWeek": 0,
-      "futureWeek": 28
+      "overDueWeek": 1,
+      "futureWeek": 27
     }
 
   ]
